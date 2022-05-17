@@ -1,0 +1,9 @@
+.FilmList-li {
+  padding: 10px;
+  margin: 2px 0;
+  list-style: none;
+  text-align: left;
+}
+.FilmList-li:hover {
+  background-color: lightgrey;
+}
